@@ -3,7 +3,7 @@
 ## 🥞 Tech Stack
  
 I work with many different technologies and languages. 
-My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
+My favorite ones are React.js, MongoDB, Node.js, Netlify, Next.js and Vercel.
  
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next js" alt="Nextjs Logo" width="70"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Reactjs" alt="Reactjs Logo" width="65"/>&emsp;
