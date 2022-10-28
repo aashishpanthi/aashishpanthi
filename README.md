@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## My Recent videos on YouTube
-<!--- YOUTUBE-VIDEOS-LIST:START -->
-<!--- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
 
