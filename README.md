@@ -20,6 +20,14 @@ You can click the Preview link to take a look at your changes.
 - [Send email without backend after form submission](https://blog.aashish-panthi.com.np/send-email-without-backend)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+## My Recent videos on YouTube
+<!--- YOUTUBE-VIDEOS-LIST:START -->
+<!--- YOUTUBE-VIDEOS-LIST:END -->
+
+---
+
 ## Most used programming languages
 ![Stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishpanthi&theme=radical&layout=compact)
 
