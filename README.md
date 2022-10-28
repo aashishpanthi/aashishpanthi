@@ -24,6 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 ## My Recent videos on YouTube
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Make your own Search Engine from Scratch like Google, Bing || Javascript, Python](https://www.youtube.com/watch?v=YUPzpBs_iXw)
+- [Get user location with javascript || Two methods &lpar;with/without permission&rpar;](https://www.youtube.com/watch?v=g5tNE7-vkGk)
+- [Deploy React App on GitHub Pages, Easy &amp; Fast way &lpar;2022 gh-pages hosting tutorial&rpar;](https://www.youtube.com/watch?v=yvaJNaqQwew)
+- [Deploy React App on Cloudflare Pages for Free || Quick React Website deployment Hosting React App](https://www.youtube.com/watch?v=QNShfexV9Bk)
+- [Deploy React App on Vercel, Easy &amp; Fast way || React Vercel hosting](https://www.youtube.com/watch?v=cUInBy6AGHU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
