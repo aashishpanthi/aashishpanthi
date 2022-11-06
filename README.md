@@ -4,16 +4,16 @@
  
  ---
  ## 📈My GitHub stats
-
-[![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishpanthi&show_icons=true&theme=radical)](https://github.com/aashishpanthi)
-<img alt="Stats card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishpanthi&theme=radical&layout=compact" height="195px" />
+<img alt="Stats card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishpanthi&theme=radical&layout=compact" width="42%" align="right" />
+<img alt="Aashish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aashishpanthi&show_icons=true&theme=radical" />
 
 <!---
 aashishpanthi/aashishpanthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## My Recent blog posts
+--- 
+## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to make an email tracker using Nhost serverless functions](https://blog.aashish-panthi.com.np/make-an-email-tracker-using-nhost-serverless-functions)
 - [Developer Communities and My thoughts](https://blog.aashish-panthi.com.np/developer-communities-and-my-thoughts)
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## My Recent videos on YouTube
+## 🎥 My Recent videos on YouTube
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Make your own Search Engine from Scratch like Google, Bing || Javascript, Python](https://www.youtube.com/watch?v=YUPzpBs_iXw)
 - [Get user location with javascript || Two methods &lpar;with/without permission&rpar;](https://www.youtube.com/watch?v=g5tNE7-vkGk)
