@@ -5,7 +5,7 @@
  ---
  ## 📈My GitHub stats
 <img alt="Stats card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishpanthi&theme=radical&layout=compact" width="42%" align="right" />
-<img alt="Aashish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aashishpanthi&show_icons=true&theme=radical" />
+<img alt="Aashish's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aashishpanthi&show_icons=true&theme=radical" width="50%" />
 
 <!---
 aashishpanthi/aashishpanthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
