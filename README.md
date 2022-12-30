@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 --- 
 ## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackathons - Dev Retro 2022](https://blog.aashish-panthi.com.np/hackathons-dev-retro-2022)
 - [Introducing lootle - buy it cheap](https://blog.aashish-panthi.com.np/introducing-lootle)
 - [How to make an email tracker using Nhost serverless functions](https://blog.aashish-panthi.com.np/make-an-email-tracker-using-nhost-serverless-functions)
 - [Developer Communities and My thoughts](https://blog.aashish-panthi.com.np/developer-communities-and-my-thoughts)
 - [I tried Machine Learning for a day](https://blog.aashish-panthi.com.np/i-tried-machine-learning)
-- [Pixel Tracking, What is it?](https://blog.aashish-panthi.com.np/what-is-pixel-tracking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
