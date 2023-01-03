@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 | S.N. | Name | Description | Source code | Demo link |
 | --- | --- | --- | --- | ----- |
 | 1. | Hostque | A web template for cloud hosting provider. | [Source code](https://github.com/aashishpanthi/hostque) | [website link](https://hostque.netlify.app/) |
-| 2. | NFTque | A NFT marketplace | [Source code](https://github.com/aashishpanthi/NFTque) | [website demo](https://nftque.netlify.app/) |
+| 2. | NFTque | A NFT marketplace | [Source code](https://github.com/aashishpanthi/NFTque) | [website link](https://nftque.netlify.app/) |
 | 3. | Codyper | Learn programming while typing or vice-versa | [Source code](https://github.com/aashishpanthi/codyper) | [website link](https://codyper.netlify.app/) |
 | 4. | Lootle | Track price of your product or stock | [Source code](https://github.com/aashishpanthi/lootle.live) | [website link](https://lootle.live) |
 | 5. | Juhu  | Search Engine | [Source code](https://github.com/aashishpanthi/search-engine) | [Live demo](https://juhu.live) |
