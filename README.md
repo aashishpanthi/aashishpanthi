@@ -14,17 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 ## Recent projects:
 
-| S.N. | Name | Description | Source code | Demo link |
-| --- | --- | --- | --- | ----- |
-| 1. | Hostque | A web template for cloud hosting provider. | [Source code](https://github.com/aashishpanthi/hostque) | [website link](https://hostque.netlify.app/) |
-| 2. | NFTque | A NFT marketplace | [Source code](https://github.com/aashishpanthi/NFTque) | [website link](https://nftque.netlify.app/) |
-| 3. | Codyper | Learn programming while typing or vice-versa | [Source code](https://github.com/aashishpanthi/codyper) | [website link](https://codyper.netlify.app/) |
-| 4. | Lootle | Track price of your product or stock | [Source code](https://github.com/aashishpanthi/lootle.live) | [website link](https://lootle.live) |
-| 5. | Juhu  | Search Engine | [Source code](https://github.com/aashishpanthi/search-engine) | [Live demo](https://juhu.live) |
-| 6. | G_LOC  | Generate a dev card with the number of lines of code you have written | [Source code](https://github.com/aashishpanthi/github-lines-of-code) | [Live demo](https://dev.d35hk11gzwtpyz.amplifyapp.com/) |
-| 7. | Hamro Earth | Track International Space station in 3D | [Source code](https://github.com/saroj-regmi/Nasa-space) | [website link](https://hamro.earth/) |
-| 8. | Mailsbe | Know if your email was read or not | [Source code](https://github.com/aashishpanthi/mailsbe) | [website link](https://mailsbe.netlify.app/) |
-| 9. | FIFA World Cup update | A mobile app that gives you updates of world cup 2022 match | [Source code](https://github.com/aashishpanthi/FIFA-World-Cup) | [app link](https://expo.dev/@aashishpanthi/FIFA-World-Cup-2022) |
+| S.N. | Name | Description | Demo link |
+| --- | --- | --- | --- |
+| 1. | [Hostque](https://github.com/aashishpanthi/hostque) | A web template for cloud hosting provider. | [website link](https://hostque.netlify.app/) |
+| 2. | [NFTque](https://github.com/aashishpanthi/NFTque) | A NFT marketplace  | [website link](https://nftque.netlify.app/) |
+| 3. | [Codyper](https://github.com/aashishpanthi/codyper) | Learn programming while typing or vice-versa | [website link](https://codyper.netlify.app/) |
+| 4. | [Lootle](https://github.com/aashishpanthi/lootle.live) | Track price of your product or stock | [website link](https://lootle.live) |
+| 5. | [Juhu](https://github.com/aashishpanthi/search-engine)  | Search Engine | [Live demo](https://juhu.live) |
+| 6. | [G_LOC](https://github.com/aashishpanthi/github-lines-of-code)  | Generate a dev card with the number of lines of code you have written | [Live demo](https://dev.d35hk11gzwtpyz.amplifyapp.com/) |
+| 7. | [Hamro Earth](https://github.com/saroj-regmi/Nasa-space) | Track International Space station in 3D  | [website link](https://hamro.earth/) |
+| 8. | [Mailsbe](https://github.com/aashishpanthi/mailsbe) | Know if your email was read or not| [website link](https://mailsbe.netlify.app/) |
+| 9. | [FIFA World Cup update](https://github.com/aashishpanthi/FIFA-World-Cup) | A mobile app that gives you updates of world cup 2022 match | [app link](https://expo.dev/@aashishpanthi/FIFA-World-Cup-2022) |
 
 --- 
 ## :books: My Recent blog posts
