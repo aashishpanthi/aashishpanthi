@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 --- 
 ## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My opensource contributions](https://blog.aashish-panthi.com.np/my-opensource-contributions)
 - [Looking back to year 2022 - DevRetro](https://blog.aashish-panthi.com.np/looking-back-to-year-2022-devretro)
 - [What I learned as a developer in 2022 - Dev Retro](https://blog.aashish-panthi.com.np/what-i-learned-as-a-developer-in-2022-dev-retro)
 - [My first hacktoberfest - DevRetro](https://blog.aashish-panthi.com.np/my-first-hacktoberfest-devretro)
 - [Hackathons - Dev Retro 2022](https://blog.aashish-panthi.com.np/hackathons-dev-retro-2022)
-- [Introducing lootle - buy it cheap](https://blog.aashish-panthi.com.np/introducing-lootle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
