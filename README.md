@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 --- 
 ## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Client-Side Form Validation Basics](https://blog.aashish-panthi.com.np/client-side-form-validation-basics)
 - [My journey to Burnout Recovery](https://blog.aashish-panthi.com.np/my-journey-to-burnout-recovery)
 - [Exploring the e-commerce sites](https://blog.aashish-panthi.com.np/exploring-the-e-commerce-sites)
 - [Debugging through the whole Hackathon](https://blog.aashish-panthi.com.np/debugging-through-the-whole-hackathon)
 - [My best community experience](https://blog.aashish-panthi.com.np/my-best-community-experience)
-- [Just debugging and debugging](https://blog.aashish-panthi.com.np/just-debugging-and-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
