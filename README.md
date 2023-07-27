@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 --- 
 ## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflections: My Coding Odyssey in 2023 - Triumphs, Trials, and Tantalizing Tech! 🚀🎢](https://blog.aashish-panthi.com.np/reflections-my-coding-odyssey-in-2023-triumphs-trials-and-tantalizing-tech)
 - [My Hashnode AI tools experience](https://blog.aashish-panthi.com.np/my-hashnode-ai-tools-experience)
 - [Client-Side Form Validation Basics](https://blog.aashish-panthi.com.np/client-side-form-validation-basics)
 - [My journey to Burnout Recovery](https://blog.aashish-panthi.com.np/my-journey-to-burnout-recovery)
 - [Exploring the e-commerce sites](https://blog.aashish-panthi.com.np/exploring-the-e-commerce-sites)
-- [Debugging through the whole Hackathon](https://blog.aashish-panthi.com.np/debugging-through-the-whole-hackathon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
