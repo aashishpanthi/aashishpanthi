@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 | S.N. | Name | Description | Demo link |
 | --- | --- | --- | --- |
-| 1. | [Hostque](https://github.com/aashishpanthi/hostque) | A web template for cloud hosting provider. | [website link](https://hostque.netlify.app/) |
+| 1. | Hajurkopost | Nepali news portal | [website](https://www.hajurkopost.com/) |
 | 2. | [NFTque](https://github.com/aashishpanthi/NFTque) | A NFT marketplace  | [website link](https://nftque.netlify.app/) |
 | 3. | [Codyper](https://github.com/aashishpanthi/codyper) | Learn programming while typing or vice-versa | [website link](https://codyper.netlify.app/) |
 | 4. | [Lootle](https://github.com/aashishpanthi/lootle.live) | Track price of your product or stock | [website link](https://lootle.live) |
@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 | 7. | [Hamro Earth](https://github.com/saroj-regmi/Nasa-space) | Track International Space station in 3D  | [website link](https://hamro.earth/) |
 | 8. | [Mailsbe](https://github.com/aashishpanthi/mailsbe) | Know if your email was read or not| [website link](https://mailsbe.netlify.app/) |
 | 9. | [FIFA World Cup update](https://github.com/aashishpanthi/FIFA-World-Cup) | A mobile app that gives you updates of world cup 2022 match | [app link](https://expo.dev/@aashishpanthi/FIFA-World-Cup-2022) |
+
 
 --- 
 ## :books: My Recent blog posts
