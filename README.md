@@ -49,7 +49,10 @@ You can click the Preview link to take a look at your changes.
 - [Deploy React App on Vercel, Easy &amp; Fast way || React Vercel hosting](https://www.youtube.com/watch?v=cUInBy6AGHU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-<br>
+<br />
+
+## Holopin badges
+[![An image of @aashishpanthi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashishpanthi)](https://holopin.io/@aashishpanthi)
 
 <!-- ## Look at my contributions being eaten up by the snake.
  ![Snake animation](https://github.com/aashishpanthi/aashishpanthi/blob/output/github-contribution-grid-snake.svg) --> 
