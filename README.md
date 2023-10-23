@@ -12,6 +12,8 @@ aashishpanthi/aashishpanthi is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+
 ## Recent projects:
 
 | S.N. | Name | Description | Demo link |
@@ -49,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 - [Deploy React App on Vercel, Easy &amp; Fast way || React Vercel hosting](https://www.youtube.com/watch?v=cUInBy6AGHU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-<br />
+---
 
 ## Holopin badges
 [![An image of @aashishpanthi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashishpanthi)](https://holopin.io/@aashishpanthi)
