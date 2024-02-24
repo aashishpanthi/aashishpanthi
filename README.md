@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🎥 My Recent videos on YouTube
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [JavaScript Game Development - the Rock Paper Scissors &lpar;Part 2: Features &amp; Polish&rpar;](https://www.youtube.com/watch?v=wcIQ-jN0C9c)
-- [JavaScript Made Me Laugh, Cry, and Somehow Build a Game &lpar;Rock Paper Scissors!&rpar;](https://www.youtube.com/watch?v=BLKZ4hd26sg)
+- [JavaScript Game Development - Rock Paper Scissors &lpar;Part 2: Features &amp; Polish&rpar;](https://www.youtube.com/watch?v=wcIQ-jN0C9c)
+- [JavaScript Game Development - Rock Paper Scissors for beginners](https://www.youtube.com/watch?v=BLKZ4hd26sg)
 - [Pre-loader Setup for Your HTML Website | Complete Guide &lpar;No JQuery&rpar;](https://www.youtube.com/watch?v=kG4oZJSlPrw)
 - [Make your own Search Engine from Scratch like Google, Bing || Javascript, Python](https://www.youtube.com/watch?v=YUPzpBs_iXw)
 - [Get user location with javascript || Two methods &lpar;with/without permission&rpar;](https://www.youtube.com/watch?v=g5tNE7-vkGk)
