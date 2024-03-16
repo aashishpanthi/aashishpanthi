@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<!---
 ## Recent projects:
 
 | S.N. | Name | Description | Demo link |
@@ -28,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 | 8. | [Mailsbe](https://github.com/aashishpanthi/mailsbe) | Know if your email was read or not| [website link](https://mailsbe.netlify.app/) |
 | 9. | [FIFA World Cup update](https://github.com/aashishpanthi/FIFA-World-Cup) | A mobile app that gives you updates of world cup 2022 match | [app link](https://expo.dev/@aashishpanthi/FIFA-World-Cup-2022) |
 | 10. | [Data Nexus](https://github.com/aashishpanthi/spaceapps) | A data repository and CO<sub>2</sub> emission prediction website.| [website link](https://datanexus.netlify.app/) |
-
+--->
 
 --- 
 ## :books: My Recent blog posts
