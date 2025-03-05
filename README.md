@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashishpanthi
 - I am a full stack javascript developer 
-- Find me on [Twitter](https://twitter.com/aashishpanthi11), [LinkedIn](https://www.linkedin.com/in/aashishpanthi/), [Instagram](https://www.instagram.com/aashishpanthi11/) and [Hashnode](https://hashnode.com/@aashishpanthi).
+- Find me on [Twitter](https://twitter.com/aashishpanthi11), [LinkedIn](https://www.linkedin.com/in/aashishpanthi/), and [Hashnode](https://hashnode.com/@aashishpanthi).
  
  ---
  ## 📈My GitHub stats
