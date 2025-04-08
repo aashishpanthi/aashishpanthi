@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aashishpanthi
-- I am a full stack JavaScript developer 
+- I am a full-stack web developer and have work experience in React.js, Next.js, and other JS libraries.
 - Find me on [Twitter](https://twitter.com/aashishpanthi11), [LinkedIn](https://www.linkedin.com/in/aashishpanthi/), and [Hashnode](https://hashnode.com/@aashishpanthi).
 
  <!---
@@ -53,10 +53,6 @@ You can click the Preview link to take a look at your changes.
 - [Make your own Search Engine from Scratch like Google, Bing || Javascript, Python](https://www.youtube.com/watch?v=YUPzpBs_iXw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
----
-
-## Holopin badges
-[![An image of @aashishpanthi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashishpanthi)](https://holopin.io/@aashishpanthi)
 
 <!-- ## Look at my contributions being eaten up by the snake.
  ![Snake animation](https://github.com/aashishpanthi/aashishpanthi/blob/output/github-contribution-grid-snake.svg) --> 
