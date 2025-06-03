@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 --- 
 ## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up the p5.js Web Editor for Local Development: A Beginner-Friendly Guide](https://blog.aashish-panthi.com.np/set-up-the-p5js-web-editor-locally)
 - [SVG path animation in Nextjs using GSAP](https://blog.aashish-panthi.com.np/svg-path-animation-in-nextjs-using-gsap)
 - [Dynamic Open Graph Image generator  using Vercel-og](https://blog.aashish-panthi.com.np/dynamic-open-graph-image-generator-using-vercel-og)
 - [Add Website Loading Animation: a comprehensive guide](https://blog.aashish-panthi.com.np/add-website-loading-animation)
