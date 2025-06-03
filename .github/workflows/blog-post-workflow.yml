@@ -1,7 +1,7 @@
 name: Latest blog articles
 on:
   schedule: # Run workflow automatically
-    - cron: '0 1,13 * * *' # Runs at 1AM and 1PM, 12 hours apart
+    - cron: '59 23 * * *' # Runs at 11:59 PM everyday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-hashnode-blog:
