@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashishpanthi
 - I am a full-stack web developer and have work experience in React.js, Next.js, and other JS libraries.
-- Find me on [Twitter](https://twitter.com/aashishpanthi11), [LinkedIn](https://www.linkedin.com/in/aashishpanthi/), and [Hashnode](https://hashnode.com/@aashishpanthi).
+- Find me on [LinkedIn](https://www.linkedin.com/in/aashishpanthi/), and [Hashnode](https://hashnode.com/@aashishpanthi).
 
  <!---
  ---
@@ -41,17 +41,6 @@ You can click the Preview link to take a look at your changes.
 - [Add Website Loading Animation: a comprehensive guide](https://blog.aashish-panthi.com.np/add-website-loading-animation)
 - [Reflections: My Coding Odyssey in 2023 - Triumphs, Trials, and Tantalizing Tech! 🚀🎢](https://blog.aashish-panthi.com.np/reflections-my-coding-odyssey-in-2023-triumphs-trials-and-tantalizing-tech)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎥 My Recent videos on YouTube
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to Run Your React &amp; Nextjs App on Any Device within your network](https://www.youtube.com/watch?v=aclCPO4wMJM)
-- [JavaScript Game Development - Rock Paper Scissors &lpar;Part 2: Features &amp; Polish&rpar;](https://www.youtube.com/watch?v=wcIQ-jN0C9c)
-- [JavaScript Game Development - Rock Paper Scissors for beginners](https://www.youtube.com/watch?v=BLKZ4hd26sg)
-- [Pre-loader Setup for Your HTML Website | Complete Guide &lpar;No JQuery&rpar;](https://www.youtube.com/watch?v=kG4oZJSlPrw)
-- [Make your own Search Engine from Scratch like Google, Bing || Javascript, Python](https://www.youtube.com/watch?v=YUPzpBs_iXw)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
 
