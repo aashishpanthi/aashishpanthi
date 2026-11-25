@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 --- 
 ## :books: My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Foxit&#39;s MCP Server: 30+ PDF Tools for AI Agents](https://blog.aashish-panthi.com.np/foxit-s-mcp-server-30-pdf-tools-for-ai-agents)
 - [Authentication vs Authorization: What AI-Built Apps Often Get Wrong](https://blog.aashish-panthi.com.np/authentication-vs-authorization-what-ai-built-apps-often-get-wrong)
 - [Introducing Project TechPaila](https://blog.aashish-panthi.com.np/techpaila-project)
 - [My GSoC work and journey](https://blog.aashish-panthi.com.np/my-gsoc-2026-journey)
 - [Setting Up the p5.js Web Editor for Local Development: A Beginner-Friendly Guide](https://blog.aashish-panthi.com.np/set-up-the-p5js-web-editor-locally)
-- [SVG path animation in Nextjs using GSAP](https://blog.aashish-panthi.com.np/svg-path-animation-in-nextjs-using-gsap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## Look at my contributions being eaten up by the snake.
